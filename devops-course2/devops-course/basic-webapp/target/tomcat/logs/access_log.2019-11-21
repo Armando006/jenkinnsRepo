@@ -1,0 +1,5 @@
+193.254.230.239 - - [21/Nov/2019:15:15:50 +0000] "GET / HTTP/1.1" 200 1802 http-bio-9090-exec-2 57
+193.254.230.239 - - [21/Nov/2019:15:15:50 +0000] "GET /css/bootstrap.min.1.4.0.css HTTP/1.1" 200 47646 http-bio-9090-exec-1 26
+193.254.230.239 - - [21/Nov/2019:15:15:51 +0000] "GET /js/jquery-1.7.js HTTP/1.1" 200 249159 http-bio-9090-exec-3 223
+193.254.230.239 - - [21/Nov/2019:15:15:51 +0000] "GET /favicon.ico HTTP/1.1" 404 988 http-bio-9090-exec-5 3
+193.254.230.239 - - [21/Nov/2019:15:16:02 +0000] "GET /restServices/testServices/HelloService/sayHello/fsdfsa HTTP/1.1" 200 12 http-bio-9090-exec-6 94
